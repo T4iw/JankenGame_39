@@ -1,0 +1,19 @@
+[33mcommit 3d49aa1f0cb8f56dd11f25ef8dcaaed905bbdc65[m[33m ([m[1;36mHEAD -> [m[1;32madd_janken_display[m[33m)[m
+Author: Taisei Wayama <es.txw04@gmail.com>
+Date:   Thu Aug 23 14:36:22 2018 +0900
+
+     JankenView.java  GUIの実装
+    
+    グー・チョキ・パーボタン、勝敗表示用ラベル、及びコメントエリアを作成するメソッドmyLayoutを作成した。
+
+[33mcommit 5fb4082b3bb42f1811874b9fff8dcdecd2a19ae3[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/add_janken_display[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Taisei Wayama <39579541+T4iw@users.noreply.github.com>
+Date:   Thu Aug 23 14:03:30 2018 +0900
+
+    Create README.md
+
+[33mcommit 7d09f1c171286232b05ce0500cb9d35796400063[m
+Author: Taisei Wayama <es.txw04@gmail.com>
+Date:   Thu Aug 23 13:58:37 2018 +0900
+
+    first commit
